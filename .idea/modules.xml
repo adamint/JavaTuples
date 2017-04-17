@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaTuples.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaTuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaTuples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaTuples_main.iml" group="JavaTuples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaTuples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaTuples_test.iml" group="JavaTuples" />
+    </modules>
+  </component>
+</project>
